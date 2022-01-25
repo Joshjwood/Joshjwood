@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Joshjwood
-- 👀 I’m interested still learning
+- 👀 I’m interested in web and app development with a little automation.
 - 🌱 I’m currently learning Python
 
 
